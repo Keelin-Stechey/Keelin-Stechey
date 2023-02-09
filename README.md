@@ -10,9 +10,4 @@ As a Career Success Specialist at Juno College, I work collaboratively with boot
 *   ✉️  You can contact me at [keelin@junocollege.com](mailto:keelin@junocollege.com)
 *   🧠  I'm learning HTML and CSS
 *   ⚡  Connect with me on LinkedIn! https://www.linkedin.com/in/kstechey/
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.linkedin.com/in/kstechey/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+   
